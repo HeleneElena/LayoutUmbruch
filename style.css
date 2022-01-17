@@ -375,3 +375,43 @@ body {
     margin-top: 30px;
     max-width: 440px;
 }
+.section-7 {
+    background: #fff;
+    padding: 100px 80px;
+    display: flex;
+}
+.section-7__wrapper {
+    background: #161D2F;
+    padding: 105px 50px;
+}
+.section-7__text {
+    margin-bottom: 30px;
+    border-radius: 20px;
+    font-size: 25px;
+    line-height: 54px;
+    text-transform: capitalize;
+}
+.section-7__button {
+    border-radius: 20px;
+    border: 1px solid #fff;
+    padding: 24px 140px 24px 24px;
+    margin-right: 28px;
+    background: #161D2F;
+    color: #fff;
+}
+.section-7__fotos {
+    display: flex;
+    background: #161D2F;
+}
+.section-7__img {
+    border-radius: 8px;
+    width: 138px;
+    height: 138px;
+}
+.section-7__fotos_column1 {
+    margin-top: 70px;
+}
+.section-7__fotos_column2 {
+    margin-top: 50px;
+    margin-right: 50px;
+}
