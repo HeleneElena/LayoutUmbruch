@@ -1,0 +1,58 @@
+
+
+.header {
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 42px;
+    margin-right: 0;
+}
+.header__list {
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.section-1__title {
+    font-size: 42px;
+}
+.section-1__text_text2 {
+    margin-left: 25px;
+    margin-bottom: 30px;
+}
+.logo {
+    margin-bottom: 20px;
+}
+.section-2 {
+    display: none;
+}
+.section-3 {
+    margin-top: 50px;
+}
+.section-3__title {
+    font-size: 16px;
+    padding-top: 50px;
+    margin-bottom: 10px;
+}
+.section-3__cards {
+    flex-wrap: wrap;
+    padding-right: 0;
+}
+.section-3__card {
+    margin-top: 10px;
+}
+.section-3__title-h2 {
+    font-size: 30px;
+}
+.section-3__card_text {
+    margin-left: 20px;
+}
+.section-3__card_article {
+    font-size: 16px;
+}
+.section-3__card_span {
+    display: flex;
+}
+.span {
+    font-size: 16px;
+}
+
